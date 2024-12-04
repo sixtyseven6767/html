@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    color: #16435f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ab1325;
+    transform: scale(1.15);
+    transition: all .3s ease;
+}
